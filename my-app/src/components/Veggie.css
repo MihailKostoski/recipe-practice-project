@@ -1,0 +1,188 @@
+.veggie-recipes {
+  background-color: cadetblue;
+  width: 220px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.veggie-item-first {
+  background-color: azure;
+  text-align: center;
+  padding-bottom: 80px;
+  border-radius: 15px;
+  width: 300px;
+  height: 270px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.veggie-img {
+  width: 240px;
+  height: 238px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.veggie-title {
+  width: 240px;
+  height: 35px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  left: 32px;
+  z-index: 10;
+  top: 17.5em;
+  bottom: 8px;
+  font-size: 17px;
+  color: gray;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.6);
+  font-family: sans-serif;
+}
+
+/*@media only screen and (min-width: 600px) {
+  .veggie-recipes {
+    background-color: cadetblue;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 27px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .veggie-item-first {
+    background-color: azure;
+    text-align: center;
+    padding-bottom: 60px;
+    border-radius: 15px;
+    width: 500px;
+    height: 278px;
+  }
+
+  .veggie-img {
+    width: 460px;
+    height: 238px;
+    position: relative;
+    border-radius: 10px;
+  }
+
+  .veggie-title {
+    width: 460px;
+  }
+}
+*/
+@media only screen and (min-width: 681px) {
+  .veggie-recipes {
+    background-color: cadetblue;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 27px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .veggie-item-first {
+    background-color: azure;
+    text-align: center;
+    padding-bottom: 60px;
+    border-radius: 15px;
+    width: 320px;
+    height: 278px;
+  }
+
+  .veggie-img {
+    width: 260px;
+    height: 238px;
+    position: relative;
+    border-radius: 10px;
+  }
+
+  .veggie-title {
+    width: 260px;
+    height: 35px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 32px;
+    z-index: 10;
+    top: 18em;
+    bottom: 8px;
+    font-size: 17px;
+    color: gray;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.6);
+    font-family: sans-serif;
+  }
+}
+
+@media only screen and (min-width: 901px) {
+  .veggie-recipes {
+    background-color: cadetblue;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 27px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .veggie-item-first {
+    background-color: azure;
+    text-align: center;
+    padding-bottom: 60px;
+    border-radius: 15px;
+    width: 280px;
+    height: 278px;
+  }
+
+  .veggie-img {
+    width: 200px;
+    height: 238px;
+    position: relative;
+    border-radius: 10px;
+  }
+
+  .veggie-title {
+    width: 260px;
+    height: 35px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 32px;
+    z-index: 10;
+    top: 18em;
+    bottom: 8px;
+    font-size: 17px;
+    color: gray;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.6);
+    font-family: sans-serif;
+  }
+}

@@ -1,0 +1,13 @@
+.category-first-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 17px;
+  text-align: center;
+}
+.category-first-div h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 17px;
+}
